@@ -21,7 +21,7 @@ if(count==3){
 }else if(count==0){
     chance.innerHTML="Chances left :0"
 }else {
-    chance.innerHTML="Chances left :adh"
+    chance.innerHTML="Out of chances.."
 }
      if(finalrandomnumber>num){
         output.innerHTML="Too low...try again"
